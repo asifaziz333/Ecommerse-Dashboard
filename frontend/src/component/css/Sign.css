@@ -1,0 +1,31 @@
+form{
+    margin-left: 38%;
+    box-shadow: 0 0 10px green;
+    height: 460px;
+    width: 351px;
+    padding-left: 50px;
+    box-sizing: border-box
+}
+input{
+    font-size: 20px;
+    margin: 20px 0;
+    margin-bottom: -10px;
+}
+span{
+    color: red;
+    font-size: 20px;
+}
+button{
+    width: 85%;
+    font-size: 20px;
+    background: turquoise;
+    height: 40px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.nlink{
+    text-decoration: none;
+}
+.input{
+    margin-bottom: 20px;
+}

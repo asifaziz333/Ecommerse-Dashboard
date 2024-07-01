@@ -1,0 +1,14 @@
+table{
+    margin-left: 30%;
+    width: 600px;
+}
+
+.del{
+    cursor: pointer;
+    color:blue
+}
+
+.search{
+    margin-bottom: 20px;
+    width: 400px;
+}

@@ -1,0 +1,24 @@
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    justify-content: space-between;
+
+}
+.active{
+    color:tomato;
+}
+.nav ul{
+    display: flex;
+    flex-direction:row ;
+      
+}
+
+
+li{
+    margin: 8px 10px;
+    list-style: none;
+    font-size: 25px;
+    
+}
